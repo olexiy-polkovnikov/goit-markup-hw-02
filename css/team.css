@@ -6,7 +6,9 @@
 
 .team-list {}
 
-.team-item {}
+.team-item {
+  background-color: #fff;
+}
 
 .team-list-img {}
 

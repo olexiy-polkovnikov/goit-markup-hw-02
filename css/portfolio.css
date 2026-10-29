@@ -4,6 +4,10 @@
 
 .portfolio-list {}
 
+.portfolio-item {
+  background-color: #fff;
+}
+
 .portfolio-list-img {}
 
 .portfolio-list-subtitle {
